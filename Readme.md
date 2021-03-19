@@ -1,6 +1,10 @@
 # ext-test application
 
+made with ext-gen cli tool
+
 not included with node_modules directory
+
+generated files dir : generatedFiles/bootstrap.js
 
 using npm
 
